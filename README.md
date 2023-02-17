@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Calvin Kodalo</h1>
-<h3 align="center">A passionate full stack developer from Kenya</h3>
+<h3 align="center">A Software developer from Kisumu, Kenya</h3>
 
 - 🔭 I’m currently working on [Elewa Group Website](https://github.com/italanta/elewa-group)
 
