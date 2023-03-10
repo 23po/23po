@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Calvin Kodalo</h1>
 <h3 align="center">A Software developer from Kisumu, Kenya</h3>
 
-- 🔭 I’m currently working on [Elewa Group Website](https://github.com/italanta/elewa-group)
+- 🔭 I’m currently working on [Elewa Conversational Learning Manager](https://github.com/italanta/elewa)
 
 - 🌱 I’m currently learning **Angular**
 
