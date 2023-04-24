@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Calvince Kodalo</h1>
+<h1 align="center">Hi 👋, I'm Calvin Kodalo</h1>
 <h3 align="center">A Software developer from Kisumu, Kenya</h3>
 
 - 🔭 I’m currently working on [Elewa Conversational Learning Manager](https://github.com/italanta/elewa) and [Upstart](https://mtandao.xyz/)
