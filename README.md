@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Elewa Conversational Learning Manager](https://github.com/italanta/elewa) and [Upstart](https://mtandao.xyz/)
 
-- 🌱 I’m currently learning **Angular, Typescript**
+- 🌱 I’m currently learning **Java, Angular, Typescript**
 
-- 💬 Ask me about **React, Ruby, Javascript**
+- 💬 Ask me about **React, Ruby, Angular**
 
 - 📫 How to reach me **ckodalo@gmail.com**
 
