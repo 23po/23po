@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Calvin Kodalo</h1>
 <h3 align="center">A Software developer from Kisumu, Kenya</h3>
 
-- 🔭 Recent organizations worked for include I&M Bank Kenya Limited and Italanta/Elewa
+- 🔭 Organizations worked for in the last 6 months include [I&M Bank Kenya (Springboot Java)](https://www.imbankgroup.com/) Limited and [Italanta/Elewa (Angular)](https://italanta.net/)
+
 
 - 🌱 I’m currently learning **Java, Devops,and Bitcoin**
 
-- 💬 Ask me about **React, Ruby, Angular, Java**
+- 💬 Ask me about **Java, Ruby, Javascript**
 
 - 📫 How to reach me **ckodalo@gmail.com**
 
