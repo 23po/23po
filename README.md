@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Calvin Kodalo</h1>
 <h3 align="center">A Software developer from Kisumu, Kenya</h3>
 
-- 🔭 I’m currently working on [Elewa Conversational Learning Manager](https://github.com/italanta/elewa) and [Upstart](https://mtandao.xyz/)
+- 🔭 Recent organizations worked for include I&M Bank Kenya Limited and Italanta/Elewa
 
-- 🌱 I’m currently learning **Java, Angular, Typescript**
+- 🌱 I’m currently learning **Java, Devops,and Bitcoin**
 
-- 💬 Ask me about **React, Ruby, Angular**
+- 💬 Ask me about **React, Ruby, Angular, Java**
 
 - 📫 How to reach me **ckodalo@gmail.com**
 
